@@ -14,7 +14,7 @@ This repository contains all the assignments I have completed for the **Robotic 
 
 ## 3. Deep Reinforcement Learning on Path Tracking
 - *Objective*: Implemented a Proximal Policy Optimization (PPO-Clip) algorithm with actor-critic architecture to train an agent for path tracking tasks.
-- *Assignment Details*: [PDF: Deep Reinforcement Learning on Path Tracking](https://github.com/hsylin/Robotic-Navigation-and-Exploration/blob/main/HW3/HW3.pdf)
+- *Assignment Details*: [PDF: Deep Reinforcement Learning on Path Tracking Assignment Requirements](https://github.com/hsylin/Robotic-Navigation-and-Exploration/blob/main/HW3/HW3.pdf)
 - *Code and Documentation*: The complete implementation and related files are available in the `HW3` directory.
 
 Note: The course is still ongoing, and the repository will continue to be updated.
